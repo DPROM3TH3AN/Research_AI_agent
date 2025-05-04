@@ -1,4 +1,4 @@
-# PythonAIAgentFromScratch
+# RESEARCH-AGENT
 
 A lightweight research agent built from scratch in Python.  
 This project demonstrates how to glue together a simple AI “agent” that can load tools, read environment settings, and perform research-style tasks (document retrieval, QA, etc.).
